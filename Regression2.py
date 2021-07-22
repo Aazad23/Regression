@@ -5,7 +5,7 @@
 
 
 import requests
-import pandas
+import pandas as pd
 import scipy
 import numpy
 import sys
