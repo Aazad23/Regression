@@ -7,10 +7,10 @@
 import requests
 import pandas as pd
 import scipy
-import numpy
+import numpy as np
 import sys
 
-
+# add branched
 TRAIN_DATA_URL = "https://storage.googleapis.com/kubric-hiring/linreg_train.csv"
 TEST_DATA_URL = "https://storage.googleapis.com/kubric-hiring/linreg_test.csv"
 
